@@ -8,7 +8,7 @@ const cors = require('cors')
 const PORT = 3000
 require('dotenv').config()
 
-const connectionString = process.env.connectionString
+let connectionString = process.env.connectionString
 
 app.use(bodyParser.urlencoded({ extended: true}))
 app.use(cors())
