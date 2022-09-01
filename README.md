@@ -4,7 +4,7 @@ A simple CRUD app that allows users to play around with star wars quotes
 # Star Wars Quotes App
 This is a simple app that lets users play around with star wars quotes by adding and removing them from a list. They can also choose to edit the list by letting Darth Vadar invade or removing Darth Vadar if they choose the light side.
 
-**Link to project:** https://star-wars-quotes-app-crud.herokuapp.com/
+**Link to project:** https://star-wars-quotes-app-crud.herokuapp.com/ (the database is IP dependent so you will not be able to access it)
 
 ![gif of the website](https://github.com/Harry-Ashenden/star-wars-quotes-app-crud/blob/main/assets/image-of-star-wars-quotes-app.JPG)
 
